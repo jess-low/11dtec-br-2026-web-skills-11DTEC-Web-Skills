@@ -1,0 +1,16 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "customizations": {
+        "codespaces": {
+            "openFiles": [
+            "index.html"
+            ]
+        },
+        "vscode": {
+            "extensions": [
+                "ritwickdey.LiveServer",
+                "vsls-contrib.gitdoc"
+            ],
+        }
+    }
+}
